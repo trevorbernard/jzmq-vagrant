@@ -2,6 +2,14 @@
 
 Sterile JZMQ environment
 
+## Installation
+
+This project uses chef-solo to provision the box.
+
+Download and install the appropriate vagrant 1.1.5:
+
+    http://downloads.vagrantup.com/tags/v1.1.5
+
 ## License
 
 Copyright © 2013 Trevor Bernard
